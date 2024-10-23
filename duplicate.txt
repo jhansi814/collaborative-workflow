@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is jhansi heloo
+=======
+this is a default file of feature
+>>>>>>> 4eb1f43e1eee7094dc1fbc6fb8a4d188d8253d1c
